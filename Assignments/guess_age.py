@@ -1,7 +1,7 @@
-def guess_age():
+def guess_age(start, end):
     print("Hi, I'm trying to guess your age")
     name = input("Name : ")
-    for i in range(15,31):
+    for i in range(start, end + 1):
         answer = input(f"Your age is {i}: ")
         if answer == "y":
             print(f"{name} is {i} years old")
@@ -9,4 +9,4 @@ def guess_age():
         else:
             print("Rats")
 
-guess_age()
+guess_age(15, 30)
