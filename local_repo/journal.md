@@ -7,5 +7,8 @@ Last week in class we ran through ideas for our YouFace project to see how it wi
 Date: 2.5.26 - Week 4 -  Subject - Choosing a route for YouFace
 This week in class we chose our route for our project. We want it to be a place where poeple can post a long piece of text about thier week, bit they can only ppost on Sunday
 
-Date: 2.12.26 = Week 5 - Subject - Creating the Diagram
+Date: 2.12.26 - Week 5 - Subject - Creating the Diagram
 This week we focused on resolving github conflicts and creating a flowchart diagram to visualize the website's main funtions
+
+Date: 2.24.26 - Week 6 - Subject - Working on the presentation
+This week we worked on our presentation on how we want our social media app to look like, and what dependencies we need to use to make our app the best it can be
