@@ -12,3 +12,6 @@ This week we focused on resolving github conflicts and creating a flowchart diag
 
 Date: 2.24.26 - Week 6 - Subject - Working on the presentation
 This week we worked on our presentation on how we want our social media app to look like, and what dependencies we need to use to make our app the best it can be
+
+Date: 2.26.26 - Week 7 - Subject - Presenting our app
+This week everyone presented their apps and now we are going to start working on our app
