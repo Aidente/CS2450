@@ -15,3 +15,14 @@ This week we worked on our presentation on how we want our social media app to l
 
 Date: 2.26.26 - Week 7 - Subject - Presenting our app
 This week everyone presented their apps and now we are going to start working on our app
+
+Date: 3.2.26 - Week 8 - Subject - Working in Pairs
+This week we were introduced to pair programming, me and gilbert worked on getting the CSS to look really good and it turned out well.
+
+Date: 3.16.26 - Week 10 - Subject - Ethics
+This week we learned how ethics can influence a lot of people decisions in jobs and what we think is morally wrong
+
+Date: 3.26.26 - Week 11 - Subject - Unit Testing
+This week we installed selenium and used it to make unit tests for our app
+
+
